@@ -1,0 +1,26 @@
+{
+  "name": "utquo",
+  "version": "1.4.0",
+  "description": "PythonJS Multiplatform Publisher",
+  "main": "pypubjs/main.html",
+  "window": {
+    "width": 900,
+    "height": 600,
+    "show": true,
+    "title": "pypubjs",
+    "toolbar": false,
+    "frame": false
+  },
+  "author": "FordBashirian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RolandoSporer/utquo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RolandoSporer/utquo.git/issues"
+  },
+  "homepage": "https://github.com/RolandoSporer/utquo.git",
+  "dependencies": {
+    "quibusdamdolorem": "^1.0.0"
+  }
+}
